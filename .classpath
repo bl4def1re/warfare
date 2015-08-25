@@ -5,5 +5,7 @@
 	<classpathentry kind="lib" path="C:/Users/Florian/Downloads/citizensapi-2.0.16-SNAPSHOT.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Florian/Downloads/CrackShot.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Florian/Downloads/Shot/CrackShot/Spigot#1657.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Florian/Downloads/Shot/merchants-api-1.2.0-SNAPSHOT-release.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Florian/Downloads/ProtocolLib.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
