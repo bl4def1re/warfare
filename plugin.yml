@@ -1,0 +1,8 @@
+main: me.Timm.CrackShotAddOn.CrackShotAddOn_Main
+name: CrackShotAddOn
+author: Timm
+version: 1.0
+depend: [Citizens]
+commands:
+     wstats:
+          description:
